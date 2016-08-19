@@ -27,6 +27,6 @@ defmodule ElixirEncodingTest.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:elixir_mbcs, "~> 0.1.2"}]
   end
 end
